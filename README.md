@@ -1,5 +1,5 @@
 # secure_module Python
-Security module which stores important and confidental information. Information is stored encrypted and password protected. The module also provides the WebEncr and WebDecr functions which encrypts and decrypts any object with AES-GCM 256-bit encryption.. Have a look at SECURITY.md and read the information below for security informations.
+Security module which stores important and confidental information. Information is stored encrypted and password protected. The module also provides the WebEncr and WebDecr functions which encrypts and decrypts any object with AES-GCM 256-bit encryption. Have a look at SECURITY.md and read the information below for security informations.
 
 ## General information about AES-GCM
 AES-GCM provides data integrity and confidentiality (it belongs to the class of authenticated encryption with associated data - AEAD algorithms).
